@@ -1,1 +1,5 @@
 #practicas
+#estructura: 
+  Pnn:
+    ensamblado ->ATmelStudio 7 .Atsln
+    simulación ->Proteus-Isis (7.10) .DSN  -> debug -> .hex
