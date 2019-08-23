@@ -1,5 +1,4 @@
-# uPs-uCs
+# Laboratorio
 
-### Material de la asignatura: Microprocesadores y Microcontroladores
 
 
