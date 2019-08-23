@@ -1,5 +1,4 @@
-# uPs-uCs
+# L01
 
-### Material de la asignatura: Microprocesadores y Microcontroladores
 
 
