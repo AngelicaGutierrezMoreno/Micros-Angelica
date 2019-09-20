@@ -1,0 +1,59 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\angie\Documents\uP y uC\Micros\[15]_PRÁCTICAS\P0103\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\angie\Documents\uP y uC\Micros\[15]_PRÁCTICAS\P0103\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc\m328pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\angie\Documents\uP y uC\Micros\[15]_PRÁCTICAS\P0103\Debug\P0103.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>P0103.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>P0103.map</FILE>
+  <FILE>P0103.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <Quinto><FILE>C:\Users\angie\Documents\uP y uC\Micros\[15]_PRÁCTICAS\P0103\main.asm</FILE><LINE>78</LINE></Quinto>
+  <DeNuevo><FILE>C:\Users\angie\Documents\uP y uC\Micros\[15]_PRÁCTICAS\P0103\main.asm</FILE><LINE>15</LINE></DeNuevo>
+  <Segundo><FILE>C:\Users\angie\Documents\uP y uC\Micros\[15]_PRÁCTICAS\P0103\main.asm</FILE><LINE>23</LINE></Segundo>
+  <L1><FILE>C:\Users\angie\Documents\uP y uC\Micros\[15]_PRÁCTICAS\P0103\main.asm</FILE><LINE>26</LINE></L1>
+  <Tercero><FILE>C:\Users\angie\Documents\uP y uC\Micros\[15]_PRÁCTICAS\P0103\main.asm</FILE><LINE>35</LINE></Tercero>
+  <L2><FILE>C:\Users\angie\Documents\uP y uC\Micros\[15]_PRÁCTICAS\P0103\main.asm</FILE><LINE>41</LINE></L2>
+  <Cuarto><FILE>C:\Users\angie\Documents\uP y uC\Micros\[15]_PRÁCTICAS\P0103\main.asm</FILE><LINE>54</LINE></Cuarto>
+  <cero><FILE>C:\Users\angie\Documents\uP y uC\Micros\[15]_PRÁCTICAS\P0103\main.asm</FILE><LINE>56</LINE></cero>
+  <carry><FILE>C:\Users\angie\Documents\uP y uC\Micros\[15]_PRÁCTICAS\P0103\main.asm</FILE><LINE>66</LINE></carry>
+  <salto><FILE>C:\Users\angie\Documents\uP y uC\Micros\[15]_PRÁCTICAS\P0103\main.asm</FILE><LINE>63</LINE></salto>
+  <L3><FILE>C:\Users\angie\Documents\uP y uC\Micros\[15]_PRÁCTICAS\P0103\main.asm</FILE><LINE>71</LINE></L3>
+  <L4><FILE>C:\Users\angie\Documents\uP y uC\Micros\[15]_PRÁCTICAS\P0103\main.asm</FILE><LINE>85</LINE></L4>
+  <Sexto><FILE>C:\Users\angie\Documents\uP y uC\Micros\[15]_PRÁCTICAS\P0103\main.asm</FILE><LINE>92</LINE></Sexto>
+  <L5><FILE>C:\Users\angie\Documents\uP y uC\Micros\[15]_PRÁCTICAS\P0103\main.asm</FILE><LINE>96</LINE></L5>
+  <Septimo><FILE>C:\Users\angie\Documents\uP y uC\Micros\[15]_PRÁCTICAS\P0103\main.asm</FILE><LINE>107</LINE></Septimo>
+  <PorAca><FILE>C:\Users\angie\Documents\uP y uC\Micros\[15]_PRÁCTICAS\P0103\main.asm</FILE><LINE>116</LINE></PorAca>
+  <Octavo><FILE>C:\Users\angie\Documents\uP y uC\Micros\[15]_PRÁCTICAS\P0103\main.asm</FILE><LINE>124</LINE></Octavo>
+  <Termina><FILE>C:\Users\angie\Documents\uP y uC\Micros\[15]_PRÁCTICAS\P0103\main.asm</FILE><LINE>133</LINE></Termina>
+  <Noveno><FILE>C:\Users\angie\Documents\uP y uC\Micros\[15]_PRÁCTICAS\P0103\main.asm</FILE><LINE>139</LINE></Noveno>
+  <Aqui><FILE>C:\Users\angie\Documents\uP y uC\Micros\[15]_PRÁCTICAS\P0103\main.asm</FILE><LINE>143</LINE></Aqui>
+  <Decimo><FILE>C:\Users\angie\Documents\uP y uC\Micros\[15]_PRÁCTICAS\P0103\main.asm</FILE><LINE>148</LINE></Decimo>
+  <mayor_que><FILE>C:\Users\angie\Documents\uP y uC\Micros\[15]_PRÁCTICAS\P0103\main.asm</FILE><LINE>158</LINE></mayor_que>
+  <iguales><FILE>C:\Users\angie\Documents\uP y uC\Micros\[15]_PRÁCTICAS\P0103\main.asm</FILE><LINE>155</LINE></iguales>
+  <menor_que><FILE>C:\Users\angie\Documents\uP y uC\Micros\[15]_PRÁCTICAS\P0103\main.asm</FILE><LINE>161</LINE></menor_que>
+  <En_este_lugar><FILE>C:\Users\angie\Documents\uP y uC\Micros\[15]_PRÁCTICAS\P0103\main.asm</FILE><LINE>164</LINE></En_este_lugar>
+  <datos><FILE>C:\Users\angie\Documents\uP y uC\Micros\[15]_PRÁCTICAS\P0103\main.asm</FILE><LINE>168</LINE></datos>
+  <patron><FILE>C:\Users\angie\Documents\uP y uC\Micros\[15]_PRÁCTICAS\P0103\main.asm</FILE><LINE>194</LINE></patron>
+  <delayXms><FILE>C:\Users\angie\Documents\uP y uC\Micros\[15]_PRÁCTICAS\P0103\main.asm</FILE><LINE>351</LINE></delayXms>
+  <delayYms><FILE>C:\Users\angie\Documents\uP y uC\Micros\[15]_PRÁCTICAS\P0103\main.asm</FILE><LINE>341</LINE></delayYms>
+  <LOOP0><FILE>C:\Users\angie\Documents\uP y uC\Micros\[15]_PRÁCTICAS\P0103\main.asm</FILE><LINE>343</LINE></LOOP0>
+  <LOOP1><FILE>C:\Users\angie\Documents\uP y uC\Micros\[15]_PRÁCTICAS\P0103\main.asm</FILE><LINE>345</LINE></LOOP1>
+  <LazoXms><FILE>C:\Users\angie\Documents\uP y uC\Micros\[15]_PRÁCTICAS\P0103\main.asm</FILE><LINE>353</LINE></LazoXms>
+  <propuesta><FILE>C:\Users\angie\Documents\uP y uC\Micros\[15]_PRÁCTICAS\P0103\main.asm</FILE><LINE>360</LINE></propuesta>
+ </LABELS>
+</ASSEMBLER_INFO>
